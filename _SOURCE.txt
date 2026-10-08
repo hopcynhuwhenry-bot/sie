@@ -1,0 +1,8 @@
+HANES zip sweep, 27 August 2026
+original zip filename : Galfridi Monemutensis Historia Regnum Brittannie, [early 13 cent.]-full.zip
+original folder       : E:\HANES\Reference Library\1_NLW_Peniarth_Downloads
+zip sha1              : 03aa804b54a5b3b99c9d356eb565961428f5c446
+zip bytes             : 41227141
+files extracted       : 191
+bytes extracted       : 41209111
+zip deleted after count+byte verification against the archive index.
